@@ -15,3 +15,7 @@ MERGE (t:Tag {name: tag})
 MERGE (q1)-[:IS_SIMILAR_TO]-(q2)
 MERGE (q1)-[:HAS_DIFFICULTY]->(d)
 MERGE (q1)-[:HAS_TAG]->(t);
+
+MATCH (q:Question { title: '' }) DETACH DELETE q;
+MATCH (t:Tag { name: '' }) DETACH DELETE t;
+
