@@ -1,0 +1,649 @@
+id,title,difficulty,tags,simlilar_questions
+1,Two Sum,1,Array|Hash Table,3Sum|4Sum|Two Sum II - Input array is sorted|Two Sum III - Data structure design|Subarray Sum Equals K|Two Sum IV - Input is a BST
+2,Add Two Numbers,2,Linked List|Math,Multiply Strings|Add Binary|Sum of Two Integers|Add Strings|Add Two Numbers II
+3,Longest Substring Without Repeating Characters,2,Hash Table|Two Pointers|String,Longest Substring with At Most Two Distinct Characters
+4,Median of Two Sorted Arrays,3,Binary Search|Array|Divide and Conquer,""
+5,Longest Palindromic Substring,2,String,Shortest Palindrome|Palindrome Permutation|Palindrome Pairs|Longest Palindromic Subsequence|Palindromic Substrings
+6,ZigZag Conversion,2,String,""
+7,Reverse Integer,1,Math,String to Integer (atoi)
+8,String to Integer (atoi),2,Math|String,Reverse Integer|Valid Number
+9,Palindrome Number,1,Math,Palindrome Linked List
+10,Regular Expression Matching,3,Dynamic Programming|Backtracking|String,Wildcard Matching
+11,Container With Most Water,2,Array|Two Pointers,Trapping Rain Water
+12,Integer to Roman,2,Math|String,Roman to Integer|Integer to English Words
+13,Roman to Integer,1,Math|String,Integer to Roman
+14,Longest Common Prefix,1,String,""
+17,Letter Combinations of a Phone Number,2,Backtracking|String,Generate Parentheses|Combination Sum|Binary Watch
+19,Remove Nth Node From End of List,2,Linked List|Two Pointers,""
+20,Valid Parentheses,1,Stack|String,Generate Parentheses|Longest Valid Parentheses|Remove Invalid Parentheses
+21,Merge Two Sorted Lists,1,Linked List,Merge k Sorted Lists|Merge Sorted Array|Sort List|Shortest Word Distance II
+22,Generate Parentheses,2,Backtracking|String,Letter Combinations of a Phone Number|Valid Parentheses
+23,Merge k Sorted Lists,3,Divide and Conquer|Linked List|Heap,Merge Two Sorted Lists|Ugly Number II
+24,Swap Nodes in Pairs,2,Linked List,Reverse Nodes in k-Group
+25,Reverse Nodes in k-Group,3,Linked List,Swap Nodes in Pairs
+26,Remove Duplicates from Sorted Array,1,Array|Two Pointers,Remove Element
+27,Remove Element,1,Array|Two Pointers,Remove Duplicates from Sorted Array|Remove Linked List Elements|Move Zeroes
+28,Implement strStr(),1,Two Pointers|String,Shortest Palindrome|Repeated Substring Pattern
+29,Divide Two Integers,2,Math|Binary Search,""
+30,Substring with Concatenation of All Words,3,Hash Table|Two Pointers|String,Minimum Window Substring
+31,Next Permutation,2,Array,Permutations|Permutations II|Permutation Sequence|Palindrome Permutation II
+32,Longest Valid Parentheses,3,Dynamic Programming|String,Valid Parentheses
+33,Search in Rotated Sorted Array,2,Binary Search|Array,Search in Rotated Sorted Array II|Find Minimum in Rotated Sorted Array
+34,Search for a Range,2,Binary Search|Array,First Bad Version
+35,Search Insert Position,1,Array|Binary Search,First Bad Version
+36,Valid Sudoku,2,Hash Table,Sudoku Solver
+37,Sudoku Solver,3,Backtracking|Hash Table,Valid Sudoku
+38,Count and Say,1,String,Encode and Decode Strings
+39,Combination Sum,2,Array|Backtracking,Letter Combinations of a Phone Number|Combination Sum II|Combinations|Combination Sum III|Factor Combinations|Combination Sum IV
+40,Combination Sum II,2,Array|Backtracking,Combination Sum
+41,First Missing Positive,3,Array,Missing Number|Find the Duplicate Number|Find All Numbers Disappeared in an Array
+42,Trapping Rain Water,3,Array|Stack|Two Pointers,Container With Most Water|Product of Array Except Self|Trapping Rain Water II
+43,Multiply Strings,2,Math|String,Add Two Numbers|Plus One|Add Binary|Add Strings
+44,Wildcard Matching,3,Dynamic Programming|Backtracking|Greedy|String,Regular Expression Matching
+45,Jump Game II,3,Array|Greedy,""
+46,Permutations,2,Backtracking,Next Permutation|Permutations II|Permutation Sequence|Combinations
+47,Permutations II,2,Backtracking,Next Permutation|Permutations|Palindrome Permutation II
+48,Rotate Image,2,Array,""
+49,Group Anagrams,2,Hash Table|String,Valid Anagram|Group Shifted Strings
+50,"Pow(x, n)",2,Binary Search|Math,Sqrt(x)|Super Pow
+51,N-Queens,3,Backtracking,N-Queens II
+52,N-Queens II,3,Backtracking,N-Queens
+53,Maximum Subarray,1,Array|Dynamic Programming|Divide and Conquer,Best Time to Buy and Sell Stock|Maximum Product Subarray
+54,Spiral Matrix,2,Array,Spiral Matrix II
+55,Jump Game,2,Array|Greedy,""
+56,Merge Intervals,2,Array|Sort,Insert Interval|Meeting Rooms|Meeting Rooms II|Teemo Attacking|Add Bold Tag in String
+57,Insert Interval,3,Array|Sort,Merge Intervals
+58,Length of Last Word,1,String,""
+59,Spiral Matrix II,2,Array,Spiral Matrix
+60,Permutation Sequence,2,Backtracking|Math,Next Permutation|Permutations
+61,Rotate List,2,Linked List|Two Pointers,Rotate Array
+62,Unique Paths,2,Array|Dynamic Programming,Unique Paths II|Minimum Path Sum|Dungeon Game
+63,Unique Paths II,2,Array|Dynamic Programming,Unique Paths
+64,Minimum Path Sum,2,Array|Dynamic Programming,Unique Paths|Dungeon Game
+65,Valid Number,3,Math|String,String to Integer (atoi)
+66,Plus One,1,Array|Math,Multiply Strings|Add Binary|Plus One Linked List
+67,Add Binary,1,Math|String,Add Two Numbers|Multiply Strings|Plus One
+68,Text Justification,3,String,""
+69,Sqrt(x),1,Binary Search|Math,"Pow(x, n)|Valid Perfect Square"
+70,Climbing Stairs,1,Dynamic Programming,""
+71,Simplify Path,2,Stack|String,""
+72,Edit Distance,3,Dynamic Programming|String,One Edit Distance|Delete Operation for Two Strings
+73,Set Matrix Zeroes,2,Array,Game of Life
+74,Search a 2D Matrix,2,Array|Binary Search,Search a 2D Matrix II
+75,Sort Colors,2,Array|Two Pointers|Sort,Sort List|Wiggle Sort|Wiggle Sort II
+76,Minimum Window Substring,3,Hash Table|Two Pointers|String,Substring with Concatenation of All Words|Minimum Size Subarray Sum|Sliding Window Maximum|Permutation in String|Smallest Range
+77,Combinations,2,Backtracking,Combination Sum|Permutations
+78,Subsets,2,Array|Backtracking|Bit Manipulation,Generalized Abbreviation
+79,Word Search,2,Array|Backtracking,Word Search II
+80,Remove Duplicates from Sorted Array II,2,Array|Two Pointers,""
+81,Search in Rotated Sorted Array II,2,Array|Binary Search,Search in Rotated Sorted Array
+82,Remove Duplicates from Sorted List II,2,Linked List,""
+83,Remove Duplicates from Sorted List,1,Linked List,""
+84,Largest Rectangle in Histogram,3,Array|Stack,Maximal Rectangle
+85,Maximal Rectangle,3,Array|Hash Table|Stack|Dynamic Programming,Largest Rectangle in Histogram|Maximal Square
+86,Partition List,2,Linked List|Two Pointers,""
+87,Scramble String,3,Dynamic Programming|String,""
+88,Merge Sorted Array,1,Array|Two Pointers,Merge Two Sorted Lists
+89,Gray Code,2,Backtracking,""
+90,Subsets II,2,Array|Backtracking,""
+91,Decode Ways,2,Dynamic Programming|String,Decode Ways II
+92,Reverse Linked List II,2,Linked List,Reverse Linked List
+93,Restore IP Addresses,2,Backtracking|String,""
+94,Binary Tree Inorder Traversal,2,Tree|Hash Table|Stack,Validate Binary Search Tree|Binary Tree Preorder Traversal|Binary Tree Postorder Traversal|Binary Search Tree Iterator|Kth Smallest Element in a BST|Closest Binary Search Tree Value II|Inorder Successor in BST
+95,Unique Binary Search Trees II,2,Tree|Dynamic Programming,Unique Binary Search Trees|Different Ways to Add Parentheses
+96,Unique Binary Search Trees,2,Tree|Dynamic Programming,Unique Binary Search Trees II
+97,Interleaving String,3,Dynamic Programming|String,""
+98,Validate Binary Search Tree,2,Tree|Depth-first Search,Binary Tree Inorder Traversal|Find Mode in Binary Search Tree
+99,Recover Binary Search Tree,3,Tree|Depth-first Search,""
+100,Same Tree,1,Tree|Depth-first Search,""
+101,Symmetric Tree,1,Tree|Depth-first Search|Breadth-first Search,""
+102,Binary Tree Level Order Traversal,2,Tree|Breadth-first Search,Binary Tree Zigzag Level Order Traversal|Binary Tree Level Order Traversal II|Minimum Depth of Binary Tree|Binary Tree Vertical Order Traversal|Average of Levels in Binary Tree
+103,Binary Tree Zigzag Level Order Traversal,2,Tree|Breadth-first Search|Stack,Binary Tree Level Order Traversal
+104,Maximum Depth of Binary Tree,1,Tree|Depth-first Search,Balanced Binary Tree|Minimum Depth of Binary Tree
+105,Construct Binary Tree from Preorder and Inorder Traversal,2,Tree|Array|Depth-first Search,Construct Binary Tree from Inorder and Postorder Traversal
+106,Construct Binary Tree from Inorder and Postorder Traversal,2,Tree|Array|Depth-first Search,Construct Binary Tree from Preorder and Inorder Traversal
+107,Binary Tree Level Order Traversal II,1,Tree|Breadth-first Search,Binary Tree Level Order Traversal|Average of Levels in Binary Tree
+108,Convert Sorted Array to Binary Search Tree,1,Tree|Depth-first Search,Convert Sorted List to Binary Search Tree
+109,Convert Sorted List to Binary Search Tree,2,Depth-first Search|Linked List,Convert Sorted Array to Binary Search Tree
+110,Balanced Binary Tree,1,Tree|Depth-first Search,Maximum Depth of Binary Tree
+111,Minimum Depth of Binary Tree,1,Tree|Depth-first Search|Breadth-first Search,Binary Tree Level Order Traversal|Maximum Depth of Binary Tree
+112,Path Sum,1,Tree|Depth-first Search,Path Sum II|Binary Tree Maximum Path Sum|Sum Root to Leaf Numbers|Path Sum III|Path Sum IV
+113,Path Sum II,2,Tree|Depth-first Search,Path Sum|Binary Tree Paths|Path Sum III|Path Sum IV
+114,Flatten Binary Tree to Linked List,2,Tree|Depth-first Search,""
+115,Distinct Subsequences,3,Dynamic Programming|String,""
+116,Populating Next Right Pointers in Each Node,2,Tree|Depth-first Search,Populating Next Right Pointers in Each Node II|Binary Tree Right Side View
+117,Populating Next Right Pointers in Each Node II,2,Tree|Depth-first Search,Populating Next Right Pointers in Each Node
+118,Pascal's Triangle,1,Array,Pascal's Triangle II
+119,Pascal's Triangle II,1,Array,Pascal's Triangle
+120,Triangle,2,Array|Dynamic Programming,""
+121,Best Time to Buy and Sell Stock,1,Array|Dynamic Programming,Maximum Subarray|Best Time to Buy and Sell Stock II|Best Time to Buy and Sell Stock III|Best Time to Buy and Sell Stock IV|Best Time to Buy and Sell Stock with Cooldown
+122,Best Time to Buy and Sell Stock II,1,Array|Greedy,Best Time to Buy and Sell Stock|Best Time to Buy and Sell Stock III|Best Time to Buy and Sell Stock IV|Best Time to Buy and Sell Stock with Cooldown
+123,Best Time to Buy and Sell Stock III,3,Array|Dynamic Programming,Best Time to Buy and Sell Stock|Best Time to Buy and Sell Stock II|Best Time to Buy and Sell Stock IV
+124,Binary Tree Maximum Path Sum,3,Tree|Depth-first Search,Path Sum|Sum Root to Leaf Numbers|Path Sum IV
+125,Valid Palindrome,1,Two Pointers|String,Palindrome Linked List
+126,Word Ladder II,3,Array|Backtracking|Breadth-first Search|String,""
+127,Word Ladder,2,"",""
+128,Longest Consecutive Sequence,3,Array|Union Find,Binary Tree Longest Consecutive Sequence
+129,Sum Root to Leaf Numbers,2,Tree|Depth-first Search,Path Sum|Binary Tree Maximum Path Sum
+130,Surrounded Regions,2,Breadth-first Search|Union Find,Number of Islands|Walls and Gates
+131,Palindrome Partitioning,2,Backtracking,Palindrome Partitioning II
+132,Palindrome Partitioning II,3,Dynamic Programming,Palindrome Partitioning
+133,Clone Graph,2,Depth-first Search|Breadth-first Search|Graph,Copy List with Random Pointer
+134,Gas Station,2,Greedy,""
+135,Candy,3,Greedy,""
+136,Single Number,1,Hash Table|Bit Manipulation,Single Number II|Single Number III|Missing Number|Find the Duplicate Number|Find the Difference
+137,Single Number II,2,Bit Manipulation,Single Number|Single Number III
+138,Copy List with Random Pointer,2,Hash Table|Linked List,Clone Graph
+139,Word Break,2,Dynamic Programming,Word Break II
+140,Word Break II,3,Dynamic Programming|Backtracking,Word Break|Concatenated Words
+141,Linked List Cycle,1,Linked List|Two Pointers,Linked List Cycle II
+142,Linked List Cycle II,2,Linked List|Two Pointers,Linked List Cycle|Find the Duplicate Number
+143,Reorder List,2,Linked List,""
+144,Binary Tree Preorder Traversal,2,Tree|Stack,Binary Tree Inorder Traversal|Verify Preorder Sequence in Binary Search Tree
+145,Binary Tree Postorder Traversal,3,Tree|Stack,Binary Tree Inorder Traversal
+146,LRU Cache,3,Design,LFU Cache|Design In-Memory File System|Design Compressed String Iterator
+147,Insertion Sort List,2,Linked List|Sort,Sort List
+148,Sort List,2,Linked List|Sort,Merge Two Sorted Lists|Sort Colors|Insertion Sort List
+149,Max Points on a Line,3,Hash Table|Math,Line Reflection
+150,Evaluate Reverse Polish Notation,2,Stack,Basic Calculator|Expression Add Operators
+151,Reverse Words in a String,2,String,Reverse Words in a String II
+152,Maximum Product Subarray,2,Array|Dynamic Programming,Maximum Subarray|House Robber|Product of Array Except Self|Maximum Product of Three Numbers
+15,3Sum,2,Array|Two Pointers,Two Sum|3Sum Closest|4Sum|3Sum Smaller
+153,Find Minimum in Rotated Sorted Array,2,Array|Binary Search,Search in Rotated Sorted Array|Find Minimum in Rotated Sorted Array II
+154,Find Minimum in Rotated Sorted Array II,3,Array|Binary Search,Find Minimum in Rotated Sorted Array
+155,Min Stack,1,Stack|Design,Sliding Window Maximum
+156,Binary Tree Upside Down,2,"",""
+157,Read N Characters Given Read4,1,"",""
+158,Read N Characters Given Read4 II - Call multiple times,3,"",""
+159,Longest Substring with At Most Two Distinct Characters,3,"",""
+160,Intersection of Two Linked Lists,1,Linked List,Minimum Index Sum of Two Lists
+161,One Edit Distance,2,"",""
+162,Find Peak Element,2,Binary Search|Array,""
+16,3Sum Closest,2,Array|Two Pointers,3Sum|3Sum Smaller
+163,Missing Ranges,2,"",""
+164,Maximum Gap,3,Sort,""
+165,Compare Version Numbers,2,String,""
+166,Fraction to Recurring Decimal,2,Hash Table|Math,""
+167,Two Sum II - Input array is sorted,1,Array|Two Pointers|Binary Search,Two Sum|Two Sum IV - Input is a BST
+168,Excel Sheet Column Title,1,Math,Excel Sheet Column Number
+169,Majority Element,1,Array|Divide and Conquer|Bit Manipulation,Majority Element II
+170,Two Sum III - Data structure design,1,"",""
+171,Excel Sheet Column Number,1,Math,Excel Sheet Column Title
+172,Factorial Trailing Zeroes,1,Math,Number of Digit One
+173,Binary Search Tree Iterator,2,Tree|Stack|Design,Binary Tree Inorder Traversal|Flatten 2D Vector|Zigzag Iterator|Peeking Iterator|Inorder Successor in BST
+174,Dungeon Game,3,Binary Search|Dynamic Programming,Unique Paths|Minimum Path Sum
+175,Combine Two Tables,1,"",Employee Bonus
+176,Second Highest Salary,1,"",""
+177,Nth Highest Salary,2,"",""
+178,Rank Scores,2,"",""
+179,Largest Number,2,Sort,""
+180,Consecutive Numbers,2,"",""
+181,Employees Earning More Than Their Managers,1,"",""
+182,Duplicate Emails,1,"",""
+183,Customers Who Never Order,1,"",""
+18,4Sum,2,Array|Hash Table|Two Pointers,Two Sum|3Sum|4Sum II
+184,Department Highest Salary,2,"",""
+185,Department Top Three Salaries,3,"",""
+186,Reverse Words in a String II,2,"",""
+187,Repeated DNA Sequences,2,Hash Table|Bit Manipulation,""
+188,Best Time to Buy and Sell Stock IV,3,Dynamic Programming,Best Time to Buy and Sell Stock|Best Time to Buy and Sell Stock II|Best Time to Buy and Sell Stock III
+189,Rotate Array,1,Array,Rotate List|Reverse Words in a String II
+190,Reverse Bits,1,Bit Manipulation,Number of 1 Bits
+191,Number of 1 Bits,1,Bit Manipulation,Reverse Bits|Power of Two|Counting Bits|Binary Watch|Hamming Distance
+192,Word Frequency,2,"",Top K Frequent Elements
+193,Valid Phone Numbers,1,"",""
+194,Transpose File,2,"",""
+195,Tenth Line,1,"",""
+196,Delete Duplicate Emails,1,"",""
+197,Rising Temperature,1,"",""
+198,House Robber,1,Dynamic Programming,Maximum Product Subarray|House Robber II|Paint House|Paint Fence|House Robber III|Non-negative Integers without Consecutive Ones|Coin Path
+199,Binary Tree Right Side View,2,Tree|Depth-first Search|Breadth-first Search,Populating Next Right Pointers in Each Node|Boundary of Binary Tree
+200,Number of Islands,2,Depth-first Search|Breadth-first Search|Union Find,Surrounded Regions|Walls and Gates|Number of Islands II|Number of Connected Components in an Undirected Graph
+201,Bitwise AND of Numbers Range,2,Bit Manipulation,""
+202,Happy Number,1,Hash Table|Math,Add Digits|Ugly Number
+203,Remove Linked List Elements,1,Linked List,Remove Element|Delete Node in a Linked List
+204,Count Primes,1,Hash Table|Math,Ugly Number|Ugly Number II|Perfect Squares
+205,Isomorphic Strings,1,Hash Table,Word Pattern
+206,Reverse Linked List,1,Linked List,Reverse Linked List II|Binary Tree Upside Down|Palindrome Linked List
+207,Course Schedule,2,Depth-first Search|Breadth-first Search|Graph|Topological Sort,Course Schedule II|Graph Valid Tree|Minimum Height Trees|Course Schedule III
+208,Implement Trie (Prefix Tree),2,Design|Trie,Add and Search Word - Data structure design|Design Search Autocomplete System|Replace Words
+209,Minimum Size Subarray Sum,2,Array|Two Pointers|Binary Search,Minimum Window Substring|Maximum Size Subarray Sum Equals k
+210,Course Schedule II,2,Depth-first Search|Breadth-first Search|Graph|Topological Sort,Course Schedule|Alien Dictionary|Minimum Height Trees|Sequence Reconstruction|Course Schedule III
+211,Add and Search Word - Data structure design,2,Backtracking|Trie|Design,Implement Trie (Prefix Tree)
+212,Word Search II,3,Backtracking|Trie,Word Search
+213,House Robber II,2,Dynamic Programming,House Robber|Paint House|Paint Fence|House Robber III|Non-negative Integers without Consecutive Ones|Coin Path
+214,Shortest Palindrome,3,String,Longest Palindromic Substring|Implement strStr()|Palindrome Pairs
+215,Kth Largest Element in an Array,2,Heap|Divide and Conquer,Wiggle Sort II|Top K Frequent Elements|Third Maximum Number
+216,Combination Sum III,2,Array|Backtracking,Combination Sum
+217,Contains Duplicate,1,Array|Hash Table,Contains Duplicate II|Contains Duplicate III
+218,The Skyline Problem,3,Binary Indexed Tree|Segment Tree|Heap|Divide and Conquer,""
+219,Contains Duplicate II,1,Array|Hash Table,Contains Duplicate|Contains Duplicate III
+220,Contains Duplicate III,2,Binary Search Tree,Contains Duplicate|Contains Duplicate II
+221,Maximal Square,2,Dynamic Programming,Maximal Rectangle
+222,Count Complete Tree Nodes,2,Tree|Binary Search,Closest Binary Search Tree Value
+223,Rectangle Area,2,Math,""
+224,Basic Calculator,3,Stack|Math,Evaluate Reverse Polish Notation|Basic Calculator II|Different Ways to Add Parentheses|Expression Add Operators
+225,Implement Stack using Queues,1,Stack|Design,Implement Queue using Stacks
+226,Invert Binary Tree,1,Tree,""
+227,Basic Calculator II,2,String,Basic Calculator|Expression Add Operators
+228,Summary Ranges,2,Array,Missing Ranges|Data Stream as Disjoint Intervals
+229,Majority Element II,2,Array,Majority Element
+230,Kth Smallest Element in a BST,2,Binary Search|Tree,Binary Tree Inorder Traversal|Second Minimum Node In a Binary Tree
+231,Power of Two,1,Math|Bit Manipulation,Number of 1 Bits|Power of Three|Power of Four
+232,Implement Queue using Stacks,1,Stack|Design,Implement Stack using Queues
+233,Number of Digit One,3,Math,Factorial Trailing Zeroes
+234,Palindrome Linked List,1,Linked List|Two Pointers,Palindrome Number|Valid Palindrome|Reverse Linked List
+235,Lowest Common Ancestor of a Binary Search Tree,1,Tree,Lowest Common Ancestor of a Binary Tree
+236,Lowest Common Ancestor of a Binary Tree,2,Tree,Lowest Common Ancestor of a Binary Search Tree
+237,Delete Node in a Linked List,1,Linked List,Remove Linked List Elements
+238,Product of Array Except Self,2,Array,Trapping Rain Water|Maximum Product Subarray|Paint House II
+239,Sliding Window Maximum,3,Heap,Minimum Window Substring|Min Stack|Longest Substring with At Most Two Distinct Characters|Paint House II
+240,Search a 2D Matrix II,2,Binary Search|Divide and Conquer,Search a 2D Matrix
+241,Different Ways to Add Parentheses,2,Divide and Conquer,Unique Binary Search Trees II|Basic Calculator|Expression Add Operators
+242,Valid Anagram,1,Hash Table|Sort,Group Anagrams|Palindrome Permutation|Find All Anagrams in a String
+243,Shortest Word Distance,1,"",""
+244,Shortest Word Distance II,2,"",""
+245,Shortest Word Distance III,2,"",""
+246,Strobogrammatic Number,1,"",""
+247,Strobogrammatic Number II,2,"",""
+248,Strobogrammatic Number III,3,"",""
+249,Group Shifted Strings,2,"",""
+250,Count Univalue Subtrees,2,"",""
+251,Flatten 2D Vector,2,"",""
+252,Meeting Rooms,1,"",""
+253,Meeting Rooms II,2,"",""
+254,Factor Combinations,2,"",""
+255,Verify Preorder Sequence in Binary Search Tree,2,"",""
+256,Paint House,1,"",""
+257,Binary Tree Paths,1,Tree|Depth-first Search,Path Sum II
+258,Add Digits,1,Math,Happy Number
+260,Single Number III,2,Bit Manipulation,Single Number|Single Number II
+261,Graph Valid Tree,2,"",""
+262,Trips and Users,3,"",""
+263,Ugly Number,1,Math,Happy Number|Count Primes|Ugly Number II
+264,Ugly Number II,2,Dynamic Programming|Heap|Math,Merge k Sorted Lists|Count Primes|Ugly Number|Perfect Squares|Super Ugly Number
+265,Paint House II,3,"",""
+266,Palindrome Permutation,1,"",""
+267,Palindrome Permutation II,2,"",""
+268,Missing Number,1,Array|Math|Bit Manipulation,First Missing Positive|Single Number|Find the Duplicate Number
+269,Alien Dictionary,3,"",""
+270,Closest Binary Search Tree Value,1,"",""
+271,Encode and Decode Strings,2,"",""
+272,Closest Binary Search Tree Value II,3,"",""
+273,Integer to English Words,3,Math|String,Integer to Roman
+274,H-Index,2,Hash Table|Sort,H-Index II
+275,H-Index II,2,Binary Search,H-Index
+276,Paint Fence,1,"",""
+277,Find the Celebrity,2,"",""
+278,First Bad Version,1,Binary Search,Search for a Range|Search Insert Position|Guess Number Higher or Lower
+279,Perfect Squares,2,Dynamic Programming|Breadth-first Search|Math,Count Primes|Ugly Number II
+280,Wiggle Sort,2,"",""
+281,Zigzag Iterator,2,"",""
+282,Expression Add Operators,3,Divide and Conquer,Evaluate Reverse Polish Notation|Basic Calculator|Basic Calculator II|Different Ways to Add Parentheses|Target Sum
+283,Move Zeroes,1,Array|Two Pointers,Remove Element
+284,Peeking Iterator,2,Design,Binary Search Tree Iterator|Flatten 2D Vector|Zigzag Iterator
+285,Inorder Successor in BST,2,"",""
+286,Walls and Gates,2,"",""
+287,Find the Duplicate Number,2,Binary Search|Array|Two Pointers,First Missing Positive|Single Number|Linked List Cycle II|Missing Number|Set Mismatch
+288,Unique Word Abbreviation,2,"",""
+289,Game of Life,2,Array,Set Matrix Zeroes
+290,Word Pattern,1,Hash Table,Isomorphic Strings|Word Pattern II
+291,Word Pattern II,3,"",""
+292,Nim Game,1,Brainteaser,Flip Game II
+293,Flip Game,1,"",""
+294,Flip Game II,2,"",""
+295,Find Median from Data Stream,3,Heap|Design,Sliding Window Median
+296,Best Meeting Point,3,"",""
+297,Serialize and Deserialize Binary Tree,3,Tree|Design,Encode and Decode Strings|Serialize and Deserialize BST|Find Duplicate Subtrees
+298,Binary Tree Longest Consecutive Sequence,2,"",""
+299,Bulls and Cows,2,Hash Table,""
+300,Longest Increasing Subsequence,2,Dynamic Programming|Binary Search,Increasing Triplet Subsequence|Russian Doll Envelopes|Maximum Length of Pair Chain
+301,Remove Invalid Parentheses,3,Depth-first Search|Breadth-first Search,Valid Parentheses
+302,Smallest Rectangle Enclosing Black Pixels,3,"",""
+303,Range Sum Query - Immutable,1,Dynamic Programming,Range Sum Query 2D - Immutable|Range Sum Query - Mutable|Maximum Size Subarray Sum Equals k
+304,Range Sum Query 2D - Immutable,2,Dynamic Programming,Range Sum Query - Immutable|Range Sum Query 2D - Mutable
+305,Number of Islands II,3,"",""
+306,Additive Number,2,"",""
+307,Range Sum Query - Mutable,2,Segment Tree|Binary Indexed Tree,Range Sum Query - Immutable|Range Sum Query 2D - Mutable
+308,Range Sum Query 2D - Mutable,3,"",""
+309,Best Time to Buy and Sell Stock with Cooldown,2,Dynamic Programming,Best Time to Buy and Sell Stock|Best Time to Buy and Sell Stock II
+310,Minimum Height Trees,2,Breadth-first Search|Graph,Course Schedule|Course Schedule II
+311,Sparse Matrix Multiplication,2,"",""
+312,Burst Balloons,3,Dynamic Programming|Divide and Conquer,""
+313,Super Ugly Number,2,Math|Heap,Ugly Number II
+314,Binary Tree Vertical Order Traversal,2,"",""
+315,Count of Smaller Numbers After Self,3,Divide and Conquer|Binary Indexed Tree|Segment Tree|Binary Search Tree,Count of Range Sum|Queue Reconstruction by Height|Reverse Pairs
+316,Remove Duplicate Letters,3,Stack|Greedy,""
+317,Shortest Distance from All Buildings,3,"",""
+318,Maximum Product of Word Lengths,2,Bit Manipulation,""
+319,Bulb Switcher,2,Math|Brainteaser,Bulb Switcher II
+320,Generalized Abbreviation,2,"",""
+321,Create Maximum Number,3,Dynamic Programming|Greedy,Remove K Digits|Maximum Swap
+322,Coin Change,2,Dynamic Programming,""
+323,Number of Connected Components in an Undirected Graph,2,"",""
+324,Wiggle Sort II,2,Sort,Sort Colors|Kth Largest Element in an Array|Wiggle Sort
+325,Maximum Size Subarray Sum Equals k,2,"",""
+326,Power of Three,1,Math,Power of Two|Power of Four
+327,Count of Range Sum,3,Divide and Conquer|Binary Search Tree,Count of Smaller Numbers After Self|Reverse Pairs
+328,Odd Even Linked List,2,Linked List,""
+329,Longest Increasing Path in a Matrix,3,Depth-first Search|Topological Sort|Memoization,""
+330,Patching Array,3,Greedy,""
+331,Verify Preorder Serialization of a Binary Tree,2,Stack,""
+332,Reconstruct Itinerary,2,Depth-first Search|Graph,""
+333,Largest BST Subtree,2,"",""
+334,Increasing Triplet Subsequence,2,"",Longest Increasing Subsequence
+335,Self Crossing,3,Math,""
+336,Palindrome Pairs,3,Hash Table|String|Trie,Longest Palindromic Substring|Shortest Palindrome
+337,House Robber III,2,Tree|Depth-first Search,House Robber|House Robber II
+338,Counting Bits,2,Dynamic Programming|Bit Manipulation,Number of 1 Bits
+339,Nested List Weight Sum,1,"",""
+340,Longest Substring with At Most K Distinct Characters,3,"",""
+341,Flatten Nested List Iterator,2,Stack|Design,Flatten 2D Vector|Zigzag Iterator|Mini Parser|Array Nesting
+342,Power of Four,1,Bit Manipulation,Power of Two|Power of Three
+343,Integer Break,2,Dynamic Programming|Math,""
+344,Reverse String,1,Two Pointers|String,Reverse Vowels of a String|Reverse String II
+345,Reverse Vowels of a String,1,Two Pointers|String,Reverse String
+346,Moving Average from Data Stream,1,"",""
+347,Top K Frequent Elements,2,Hash Table|Heap,Word Frequency|Kth Largest Element in an Array|Sort Characters By Frequency|Split Array into Consecutive Subsequences
+348,Design Tic-Tac-Toe,2,"",""
+349,Intersection of Two Arrays,1,Binary Search|Hash Table|Two Pointers|Sort,Intersection of Two Arrays II
+350,Intersection of Two Arrays II,1,Binary Search|Hash Table|Two Pointers|Sort,Intersection of Two Arrays
+351,Android Unlock Patterns,2,"",""
+352,Data Stream as Disjoint Intervals,3,Binary Search Tree,Summary Ranges|Find Right Interval
+353,Design Snake Game,2,"",""
+354,Russian Doll Envelopes,3,Binary Search|Dynamic Programming,Longest Increasing Subsequence
+355,Design Twitter,2,Hash Table|Heap|Design,""
+356,Line Reflection,2,"",""
+357,Count Numbers with Unique Digits,2,Dynamic Programming|Backtracking|Math,""
+358,Rearrange String k Distance Apart,3,"",""
+359,Logger Rate Limiter,1,"",""
+360,Sort Transformed Array,2,"",""
+361,Bomb Enemy,2,"",""
+362,Design Hit Counter,2,"",""
+363,Max Sum of Rectangle No Larger Than K,3,Binary Search|Dynamic Programming|Queue,""
+364,Nested List Weight Sum II,2,"",""
+365,Water and Jug Problem,2,Math,""
+366,Find Leaves of Binary Tree,2,"",""
+367,Valid Perfect Square,1,Binary Search|Math,Sqrt(x)|Sum of Square Numbers
+368,Largest Divisible Subset,2,Dynamic Programming|Math,""
+369,Plus One Linked List,2,"",""
+370,Range Addition,2,"",""
+371,Sum of Two Integers,1,Bit Manipulation,Add Two Numbers
+372,Super Pow,2,Math,"Pow(x, n)"
+373,Find K Pairs with Smallest Sums,2,Heap,Kth Smallest Element in a Sorted Matrix
+374,Guess Number Higher or Lower,1,Binary Search,First Bad Version|Guess Number Higher or Lower II|Find K Closest Elements
+375,Guess Number Higher or Lower II,2,Dynamic Programming|Minimax,Flip Game II|Guess Number Higher or Lower|Can I Win|Find K Closest Elements
+376,Wiggle Subsequence,2,Dynamic Programming|Greedy,""
+377,Combination Sum IV,2,Dynamic Programming,Combination Sum
+378,Kth Smallest Element in a Sorted Matrix,2,Binary Search|Heap,Find K Pairs with Smallest Sums|Kth Smallest Number in Multiplication Table
+379,Design Phone Directory,2,"",""
+380,Insert Delete GetRandom O(1),2,Array|Hash Table|Design,Insert Delete GetRandom O(1) - Duplicates allowed
+381,Insert Delete GetRandom O(1) - Duplicates allowed,3,Array|Hash Table|Design,Insert Delete GetRandom O(1)
+382,Linked List Random Node,2,Reservoir Sampling,Random Pick Index
+383,Ransom Note,1,String,""
+384,Shuffle an Array,2,"",""
+385,Mini Parser,2,Stack|String,Flatten Nested List Iterator|Ternary Expression Parser
+386,Lexicographical Numbers,2,"",""
+387,First Unique Character in a String,1,"",""
+388,Longest Absolute File Path,2,"",""
+389,Find the Difference,1,Hash Table|Bit Manipulation,Single Number
+390,Elimination Game,2,"",""
+391,Perfect Rectangle,3,"",""
+392,Is Subsequence,2,Binary Search|Dynamic Programming|Greedy,""
+393,UTF-8 Validation,2,Bit Manipulation,""
+394,Decode String,2,Depth-first Search|Stack,Encode String with Shortest Length
+395,Longest Substring with At Least K Repeating Characters,2,"",""
+396,Rotate Function,2,Math,""
+397,Integer Replacement,2,Math|Bit Manipulation,""
+398,Random Pick Index,2,Reservoir Sampling,Linked List Random Node
+399,Evaluate Division,2,Graph,""
+400,Nth Digit,1,Math,""
+401,Binary Watch,1,Backtracking|Bit Manipulation,Letter Combinations of a Phone Number|Number of 1 Bits
+402,Remove K Digits,2,Stack|Greedy,Create Maximum Number
+403,Frog Jump,3,Dynamic Programming,""
+404,Sum of Left Leaves,1,Tree,""
+405,Convert a Number to Hexadecimal,1,Bit Manipulation,""
+406,Queue Reconstruction by Height,2,Greedy,Count of Smaller Numbers After Self
+407,Trapping Rain Water II,3,Breadth-first Search|Heap,Trapping Rain Water
+408,Valid Word Abbreviation,1,"",""
+409,Longest Palindrome,1,Hash Table,Palindrome Permutation
+410,Split Array Largest Sum,3,Binary Search|Dynamic Programming,""
+411,Minimum Unique Word Abbreviation,3,"",""
+412,Fizz Buzz,1,"",""
+413,Arithmetic Slices,2,Dynamic Programming|Math,Arithmetic Slices II - Subsequence
+414,Third Maximum Number,1,Array,Kth Largest Element in an Array
+415,Add Strings,1,Math,Add Two Numbers|Multiply Strings
+416,Partition Equal Subset Sum,2,Dynamic Programming,""
+417,Pacific Atlantic Water Flow,2,Depth-first Search|Breadth-first Search,""
+418,Sentence Screen Fitting,2,"",""
+419,Battleships in a Board,2,"",""
+420,Strong Password Checker,3,"",""
+421,Maximum XOR of Two Numbers in an Array,2,Bit Manipulation|Trie,""
+422,Valid Word Square,1,"",""
+423,Reconstruct Original Digits from English,2,Math,""
+424,Longest Repeating Character Replacement,2,"",Longest Substring with At Most K Distinct Characters
+425,Word Squares,3,"",""
+432,All O`one Data Structure,3,Design,""
+433,Minimum Genetic Mutation,2,"",""
+434,Number of Segments in a String,1,String,""
+435,Non-overlapping Intervals,2,Greedy,Minimum Number of Arrows to Burst Balloons
+436,Find Right Interval,2,Binary Search,Data Stream as Disjoint Intervals
+437,Path Sum III,1,Tree,Path Sum|Path Sum II|Path Sum IV
+438,Find All Anagrams in a String,1,Hash Table,Valid Anagram|Permutation in String
+439,Ternary Expression Parser,2,"",""
+440,K-th Smallest in Lexicographical Order,3,"",""
+441,Arranging Coins,1,Binary Search|Math,""
+442,Find All Duplicates in an Array,2,Array,Find All Numbers Disappeared in an Array
+444,Sequence Reconstruction,2,"",""
+445,Add Two Numbers II,2,Linked List,Add Two Numbers
+446,Arithmetic Slices II - Subsequence,3,Dynamic Programming,Arithmetic Slices
+447,Number of Boomerangs,1,Hash Table,Line Reflection
+448,Find All Numbers Disappeared in an Array,1,Array,First Missing Positive|Find All Duplicates in an Array
+449,Serialize and Deserialize BST,2,Tree,Serialize and Deserialize Binary Tree|Find Duplicate Subtrees
+450,Delete Node in a BST,2,Tree,""
+451,Sort Characters By Frequency,2,Hash Table|Heap,Top K Frequent Elements
+452,Minimum Number of Arrows to Burst Balloons,2,Greedy,Meeting Rooms II|Non-overlapping Intervals
+453,Minimum Moves to Equal Array Elements,1,Math,Minimum Moves to Equal Array Elements II
+455,Assign Cookies,1,Greedy,""
+457,Circular Array Loop,2,"",""
+458,Poor Pigs,1,"",""
+459,Repeated Substring Pattern,1,String,Implement strStr()
+460,LFU Cache,3,Design,LRU Cache|Design In-Memory File System
+461,Hamming Distance,1,Bit Manipulation,Number of 1 Bits|Total Hamming Distance
+462,Minimum Moves to Equal Array Elements II,2,Math,Best Meeting Point|Minimum Moves to Equal Array Elements
+463,Island Perimeter,1,Hash Table,""
+464,Can I Win,2,Dynamic Programming|Minimax,Flip Game II|Guess Number Higher or Lower II|Predict the Winner
+465,Optimal Account Balancing,3,"",""
+466,Count The Repetitions,3,Dynamic Programming,""
+467,Unique Substrings in Wraparound String,2,Dynamic Programming,""
+468,Validate IP Address,2,String,""
+469,Convex Polygon,2,"",""
+471,Encode String with Shortest Length,3,"",""
+472,Concatenated Words,3,Dynamic Programming|Trie|Depth-first Search,Word Break II
+473,Matchsticks to Square,2,Depth-first Search,""
+474,Ones and Zeroes,2,Dynamic Programming,Non-negative Integers without Consecutive Ones
+475,Heaters,1,Binary Search,""
+476,Number Complement,1,Bit Manipulation,""
+477,Total Hamming Distance,2,Bit Manipulation,Hamming Distance
+479,Largest Palindrome Product,1,"",""
+480,Sliding Window Median,3,"",Find Median from Data Stream
+481,Magical String,2,"",""
+482,License Key Formatting,2,"",""
+483,Smallest Good Base,3,Binary Search|Math,""
+484,Find Permutation,2,"",""
+485,Max Consecutive Ones,1,Array,Max Consecutive Ones II
+486,Predict the Winner,2,Dynamic Programming|Minimax,Can I Win
+487,Max Consecutive Ones II,2,"",""
+488,Zuma Game,3,Depth-first Search,""
+490,The Maze,2,"",""
+491,Increasing Subsequences,2,Depth-first Search,Maximum Length of Pair Chain
+492,Construct the Rectangle,1,"",""
+493,Reverse Pairs,3,Binary Indexed Tree|Segment Tree|Binary Search Tree|Divide and Conquer,Count of Smaller Numbers After Self|Count of Range Sum
+494,Target Sum,2,Depth-first Search|Dynamic Programming,Expression Add Operators
+495,Teemo Attacking,2,Array,Merge Intervals|Can Place Flowers|Dota2 Senate
+496,Next Greater Element I,1,Stack,Next Greater Element II|Next Greater Element III
+498,Diagonal Traverse,2,"",""
+499,The Maze III,3,"",""
+500,Keyboard Row,1,Hash Table,""
+501,Find Mode in Binary Search Tree,1,Tree,Validate Binary Search Tree
+502,IPO,3,Heap|Greedy,""
+503,Next Greater Element II,2,Stack,Next Greater Element I|Next Greater Element III
+504,Base 7,1,"",""
+505,The Maze II,2,"",""
+506,Relative Ranks,1,"",""
+507,Perfect Number,1,Math,""
+508,Most Frequent Subtree Sum,2,Tree|Hash Table,Subtree of Another Tree
+513,Find Bottom Left Tree Value,2,Tree|Depth-first Search|Breadth-first Search,""
+514,Freedom Trail,3,Depth-first Search|Divide and Conquer|Dynamic Programming,""
+515,Find Largest Value in Each Tree Row,2,Tree|Depth-first Search|Breadth-first Search,""
+516,Longest Palindromic Subsequence,2,Dynamic Programming,Longest Palindromic Substring|Palindromic Substrings
+517,Super Washing Machines,3,Dynamic Programming|Math,""
+518,Coin Change 2,2,"",""
+520,Detect Capital,1,String,""
+521,Longest Uncommon Subsequence I ,1,String,Longest Uncommon Subsequence II
+522,Longest Uncommon Subsequence II,2,String,Longest Uncommon Subsequence I 
+523,Continuous Subarray Sum,2,Dynamic Programming|Math,Subarray Sum Equals K
+524,Longest Word in Dictionary through Deleting,2,Two Pointers|Sort,""
+525,Contiguous Array,2,Hash Table,Maximum Size Subarray Sum Equals k
+526,Beautiful Arrangement,2,Backtracking,Beautiful Arrangement II
+527,Word Abbreviation,3,"",""
+529,Minesweeper,2,Depth-first Search|Breadth-first Search,""
+530,Minimum Absolute Difference in BST,1,Binary Search Tree,K-diff Pairs in an Array
+531,Lonely Pixel I,2,"",""
+532,K-diff Pairs in an Array,1,Two Pointers|Array,Minimum Absolute Difference in BST
+533,Lonely Pixel II,2,"",""
+534,Design TinyURL,2,"",Encode and Decode TinyURL
+535,Encode and Decode TinyURL,2,Hash Table|Math,Design TinyURL
+536,Construct Binary Tree from String,2,"",""
+537,Complex Number Multiplication,2,Math|String,""
+538,Convert BST to Greater Tree,1,Tree,""
+539,Minimum Time Difference,2,String,""
+540,Single Element in a Sorted Array,2,"",""
+541,Reverse String II,1,String,Reverse String|Reverse Words in a String III
+543,Diameter of Binary Tree,1,Tree,""
+544,Output Contest Matches,2,"",""
+545,Boundary of Binary Tree,2,"",""
+546,Remove Boxes,3,Dynamic Programming|Depth-first Search,Strange Printer
+547,Friend Circles,2,Depth-first Search|Union Find,Number of Connected Components in an Undirected Graph|Judge Route Circle
+548,Split Array with Equal Sum,2,"",""
+549,Binary Tree Longest Consecutive Sequence II,2,"",""
+551,Student Attendance Record I,1,String,Student Attendance Record II
+552,Student Attendance Record II,3,Dynamic Programming,Student Attendance Record I
+553,Optimal Division,2,Math|String,""
+554,Brick Wall,2,Hash Table,""
+555,Split Concatenated Strings,2,"",""
+556,Next Greater Element III,2,String,Next Greater Element I|Next Greater Element II
+557,Reverse Words in a String III,1,String,Reverse String II
+560,Subarray Sum Equals K,2,Array|Map,Two Sum|Continuous Subarray Sum
+561,Array Partition I,1,Array,""
+562,Longest Line of Consecutive One in Matrix,2,"",""
+563,Binary Tree Tilt,1,Tree,""
+564,Find the Closest Palindrome,3,String,""
+565,Array Nesting,2,Array,Nested List Weight Sum|Flatten Nested List Iterator|Nested List Weight Sum II
+566,Reshape the Matrix,1,Array,""
+567,Permutation in String,2,Two Pointers,Minimum Window Substring|Find All Anagrams in a String
+568,Maximum Vacation Days,3,"",""
+569,Median Employee Salary,3,"",""
+570,Managers with at Least 5 Direct Reports,2,"",""
+571,Find Median Given Frequency of Numbers,3,"",""
+572,Subtree of Another Tree,1,Tree,Count Univalue Subtrees|Most Frequent Subtree Sum
+573,Squirrel Simulation,2,"",""
+574,Winning Candidate,2,"",""
+575,Distribute Candies,1,Hash Table,""
+576,Out of Boundary Paths,2,Dynamic Programming|Depth-first Search,""
+577,Employee Bonus,1,"",""
+578,Get Highest Answer Rate Question,2,"",""
+579,Find Cumulative Salary of an Employee,3,"",""
+580,Count Student Number in Departments,2,"",""
+581,Shortest Unsorted Continuous Subarray,1,Array,""
+582,Kill Process,2,"",""
+583,Delete Operation for Two Strings,2,String,Edit Distance
+584,Find Customer Referee,1,"",""
+585,Investments in 2016,2,"",""
+586,Customer Placing the Largest Number of Orders,1,"",""
+587,Erect the Fence,3,Geometry,""
+588,Design In-Memory File System,3,"",""
+591,Tag Validator,3,String|Stack,Add Bold Tag in String
+592,Fraction Addition and Subtraction,2,Math,Solve the Equation
+593,Valid Square,2,Math,""
+594,Longest Harmonious Subsequence,1,Hash Table,""
+595,Big Countries,1,"",""
+596,Classes More Than 5 Students,1,"",""
+597,Friend Requests I: Overall Acceptance Rate,1,"",""
+598,Range Addition II,1,Math,Range Addition
+599,Minimum Index Sum of Two Lists,1,Hash Table,Intersection of Two Linked Lists
+600,Non-negative Integers without Consecutive Ones,3,Dynamic Programming,House Robber|House Robber II|Ones and Zeroes
+601,Human Traffic of Stadium,3,"",""
+602,Friend Requests II: Who Has the Most Friends,2,"",""
+603,Consecutive Available Seats,1,"",""
+604,Design Compressed String Iterator,1,"",""
+605,Can Place Flowers,1,Array,Teemo Attacking
+606,Construct String from Binary Tree,1,Tree|String,Construct Binary Tree from String|Find Duplicate Subtrees
+607,Sales Person,1,"",""
+608,Tree Node,2,"",""
+609,Find Duplicate File in System,2,Hash Table|String,""
+610,Triangle Judgement,1,"",""
+611,Valid Triangle Number,2,Array,3Sum Smaller
+612,Shortest Distance in a Plane,2,"",""
+613,Shortest Distance in a Line,1,"",""
+614,Second Degree Follower,2,"",""
+615,Average Salary: Departments VS Company,3,"",""
+616,Add Bold Tag in String,2,"",""
+617,Merge Two Binary Trees,1,Tree,""
+618,Students Report By Geography,3,"",""
+619,Biggest Single Number,1,"",""
+620,Not Boring Movies,1,"",""
+621,Task Scheduler,2,Array|Greedy|Queue,Rearrange String k Distance Apart
+623,Add One Row to Tree,2,Tree,""
+624,Maximum Distance in Arrays,1,"",""
+625,Minimum Factorization,2,"",""
+626,Exchange Seats,2,"",""
+627,Swap Salary,1,"",""
+628,Maximum Product of Three Numbers,1,Array|Math,Maximum Product Subarray
+629,K Inverse Pairs Array,3,Dynamic Programming,""
+630,Course Schedule III,3,Greedy,Course Schedule|Course Schedule II
+631,Design Excel Sum Formula,3,"",""
+632,Smallest Range,3,Hash Table|Two Pointers|String,Minimum Window Substring
+633,Sum of Square Numbers,1,Math,Valid Perfect Square
+634,Find the Derangement of An Array,2,"",""
+635,Design Log Storage System,2,"",""
+636,Exclusive Time of Functions,2,Stack,""
+637,Average of Levels in Binary Tree,1,Tree,Binary Tree Level Order Traversal|Binary Tree Level Order Traversal II
+638,Shopping Offers,2,Dynamic Programming|Depth-first Search,""
+639,Decode Ways II,3,Dynamic Programming,Decode Ways
+640,Solve the Equation,2,Math,Fraction Addition and Subtraction
+642,Design Search Autocomplete System,3,"",""
+643,Maximum Average Subarray I,1,Array,Maximum Average Subarray II
+644,Maximum Average Subarray II,3,"",""
+645,Set Mismatch,1,Hash Table|Math,Find the Duplicate Number
+646,Maximum Length of Pair Chain,2,Dynamic Programming,Longest Increasing Subsequence|Increasing Subsequences
+647,Palindromic Substrings,2,Dynamic Programming|String,Longest Palindromic Substring|Longest Palindromic Subsequence|Palindromic Substrings
+648,Replace Words,2,Hash Table|Trie,Implement Trie (Prefix Tree)
+649,Dota2 Senate,2,Greedy,Teemo Attacking
+652,Find Duplicate Subtrees,2,Tree,Serialize and Deserialize Binary Tree|Serialize and Deserialize BST|Construct String from Binary Tree
+653,Two Sum IV - Input is a BST,1,Tree,Two Sum|Two Sum II - Input array is sorted|Two Sum III - Data structure design
+654,Maximum Binary Tree,2,Tree,""
+655,Print Binary Tree,2,Tree,""
+656,Coin Path,3,"",""
+657,Judge Route Circle,1,String,Friend Circles
+658,Find K Closest Elements,2,Binary Search,Guess Number Higher or Lower|Guess Number Higher or Lower II
+659,Split Array into Consecutive Subsequences,2,Heap|Greedy,Top K Frequent Elements
+660,Remove 9,3,"",""
+661,Image Smoother,1,Array,""
+662,Maximum Width of Binary Tree,2,Tree,""
+663,Equal Tree Partition,2,"",""
+664,Strange Printer,3,Dynamic Programming|Depth-first Search,Remove Boxes
+665,Non-decreasing Array,1,Array,""
+666,Path Sum IV,2,"",""
+667,Beautiful Arrangement II,2,Array,Beautiful Arrangement
+668,Kth Smallest Number in Multiplication Table,3,Binary Search,Kth Smallest Element in a Sorted Matrix
+669,Trim a Binary Search Tree,1,Tree,""
+670,Maximum Swap,2,Array|Math,Create Maximum Number
+671,Second Minimum Node In a Binary Tree,1,Tree,Kth Smallest Element in a BST
+672,Bulb Switcher II,2,Math,Bulb Switcher
+259,3Sum Smaller,2,"",""
+454,4Sum II,2,Binary Search|Hash Table,4Sum
+650,2 Keys Keyboard,2,Dynamic Programming,4 Keys Keyboard
+651,4 Keys Keyboard,2,"",""
+542,01 Matrix,2,Depth-first Search|Breadth-first Search,""
+456,132 Pattern,2,Stack,""
